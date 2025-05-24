@@ -1,0 +1,32 @@
+[
+  {
+    "sequence": "CGCCATTCGTCACGAACTGGAATGAAAAAC",
+    "length": 30,
+    "gc_content": 0.4666666666666667,
+    "folding_score": 8.723121323121319
+  },
+  {
+    "sequence": "TGGGTCTAATATCGCGGGATGCGTAGTCCT",
+    "length": 30,
+    "gc_content": 0.5333333333333333,
+    "folding_score": 9.508316683316679
+  },
+  {
+    "sequence": "AGATCCAATTCGACGCCGAGATACCCTACA",
+    "length": 30,
+    "gc_content": 0.5,
+    "folding_score": 10.191591741591736
+  },
+  {
+    "sequence": "TCGCCTTTATTCGGGAGACCTAACCATATC",
+    "length": 30,
+    "gc_content": 0.4666666666666667,
+    "folding_score": 8.605935730935732
+  },
+  {
+    "sequence": "GCGCCATTCCCATCTATCGTATAATCCCGC",
+    "length": 30,
+    "gc_content": 0.5333333333333333,
+    "folding_score": 8.082140082140082
+  }
+]

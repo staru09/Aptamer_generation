@@ -1,0 +1,60 @@
+{
+  "top_aptamers": [
+    {
+      "sequence": "GGTCAGTGTTTTGTGACACTCGCTAGAGTA",
+      "score": 0.7349931935109952,
+      "gc": 0.4666666666666667,
+      "folding": 0.919972774043981
+    }
+  ],
+  "round_history": [
+    {
+      "round": 1,
+      "avg_score": 0.6322481307028358,
+      "top_seq": "GGTCGCTGTCGTTTGACATTTCATAGCCCG",
+      "diversity": 94
+    },
+    {
+      "round": 2,
+      "avg_score": 0.6970163940775672,
+      "top_seq": "GATCGGTGTTTTCTGACACTCGCTAGAGTA",
+      "diversity": 11
+    },
+    {
+      "round": 3,
+      "avg_score": 0.7343865238863303,
+      "top_seq": "GATCGGTGTTTTCTGACACTCGCTAGAGTA",
+      "diversity": 1
+    },
+    {
+      "round": 4,
+      "avg_score": 0.7343865238863303,
+      "top_seq": "GATCGGTGTTTTCTGACACTCGCTAGAGTA",
+      "diversity": 1
+    },
+    {
+      "round": 5,
+      "avg_score": 0.7349931935109952,
+      "top_seq": "GGTCAGTGTTTTGTGACACTCGCTAGAGTA",
+      "diversity": 1
+    },
+    {
+      "round": 6,
+      "avg_score": 0.7349931935109952,
+      "top_seq": "GGTCAGTGTTTTGTGACACTCGCTAGAGTA",
+      "diversity": 1
+    },
+    {
+      "round": 7,
+      "avg_score": 0.7349931935109952,
+      "top_seq": "GGTCAGTGTTTTGTGACACTCGCTAGAGTA",
+      "diversity": 1
+    },
+    {
+      "round": 8,
+      "avg_score": 0.7349931935109952,
+      "top_seq": "GGTCAGTGTTTTGTGACACTCGCTAGAGTA",
+      "diversity": 1
+    }
+  ]
+}
