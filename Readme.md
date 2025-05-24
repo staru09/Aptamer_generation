@@ -10,6 +10,12 @@ You can install directly from GitHub:
 pip install git+https://github.com/staru09/aptamer-generator.git
 ```
 
+Alternatively, if you have cloned the repository and are working on the source code, you can install in editable mode:
+
+```bash
+pip install -e .
+```
+
 ## Features
 
 1. **Aptamer Generation**
