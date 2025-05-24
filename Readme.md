@@ -95,3 +95,15 @@ pytest tests/test_selex.py
 ```
 
 ## Project Structure
+
+aptamer_generation/
+├── generator/
+│   └── generator.py        # Basic aptamer generation
+├── selex/
+│   └── selex.py           # SELEX simulation
+├── examples/
+│   ├── examples.py
+│   └── examples_selex.py
+└── tests/
+    ├── test_generator.py
+    └── test_selex.py
